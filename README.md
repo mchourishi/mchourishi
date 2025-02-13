@@ -1,4 +1,4 @@
-<img alt="GIF" align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="350px" height="230" />
+<img alt="GIF" align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHIxM3d3eXBrbWl2Njh5dHpoZDUwa2FtMDRua3J4ZjAzeDVna3Z4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="350px" height="230" />
 
 ## Hello, I'm Mukta
 
