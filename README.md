@@ -2,8 +2,8 @@
 
 ## Hello, I'm Mukta
 
-- 💻 Check out my [blog](https://mukta-techblog.vercel.app/)
-- 👨‍🎓 I did my Bachelors of Engineering, specializing in IT from [VNSGU](https://www.vnsgu.ac.in/).
+- 💻 Check out my <a href="https://mukta-techblog.vercel.app/" target="_blank">Blog</a>
+- 👨‍🎓 I did my Bachelors of Engineering, specializing in IT from <a href="https://www.vnsgu.ac.in/" target="_blank">VNSGU</a>.
 - 👨🏻‍💻 I am a Fullstack Developer.
 - 🔭 I'm passionate about **DevOps**.
 - 🎾 My favorite sports are **Badminton** 🏸 and **Cricket** 🦗.
