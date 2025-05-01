@@ -7,7 +7,6 @@
 - 👨🏻‍💻 I am a Fullstack Developer.
 - 🔭 I'm passionate about **DevOps**.
 - 🎾 My favorite sports are **Badminton** 🏸 and **Cricket** 🦗.
-- 💃 People admire my cooking 🧑‍🍳 and singing 👩‍🎤.
 
 ## 📫 Contact me via:
 
